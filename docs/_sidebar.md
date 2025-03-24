@@ -1,6 +1,7 @@
 - Getting started
 
   - [Quick start](quickstart.md)
+  - [Test Test](danielu/test.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
