@@ -1,12 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.13.1</small>
+# Daniel's Blog <small>1.1</small>
 
-> A magical documentation site generator.
+> A magical documentation site.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- About My Christian Faith
+- About My Learning Journey
+- About My Life
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/ludadaVIP)
 [Getting Started](#docsify)

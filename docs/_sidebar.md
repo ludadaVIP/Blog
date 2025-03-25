@@ -1,30 +1,24 @@
-- Getting started
+- About My Christian Faith
 
-  - [Quick start](quickstart.md)
-  - [Test Test](danielu/test.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [New Testament](quickstart.md)
+  - [Old Testament](danielu/test.md)
+  - [Hard Questions](custom-navbar.md)
+  - [Be Faithful](more-pages.md)
+  - [FAQ](cover.md)
 
-- Customization
+- Learning Journey
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [Thoughts](configuration.md)
+  - [Reading Books](themes.md)
+  - [Language](language-highlight.md)
+  - [ASP.NET CORE](plugins.md)
+  - [Frontend](write-a-plugin.md)
+  - [Backend](markdown.md)
 
-- Guide
+- My Life
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
+  - [Casual](deploy.md)
+  - [Family](helpers.md)
+  - [Testimony](vue.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- [About Me](awesome.md)
